@@ -1,2 +1,6 @@
 # dataprocessing
 Procesamiento de datos nulos, duplicados, normalización y visualización
+pandas==2.3.1
+numpy==2.3.2
+matplotlib==3.10.5
+seaborn==0.13.2
